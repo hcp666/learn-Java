@@ -1,3 +1,4 @@
+package cn.huangchengpeng.java.assignments._2;
 public class Prime {
     public static void main(String args[]) {
         int max = 100;
